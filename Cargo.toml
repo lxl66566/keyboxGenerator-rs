@@ -5,7 +5,7 @@ version = "0.1.0"
 
 
 [dependencies]
-palc = "0.0.1"
+palc = "0.0.2"
 rand = "0.9"
 
 # OpenSSL

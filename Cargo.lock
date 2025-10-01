@@ -123,9 +123,9 @@ checksum = "63eceb7b5d757011a87d08eb2123db15d87fb0c281f65d101ce30a1e96c3ad5c"
 
 [[package]]
 name = "palc"
-version = "0.0.1"
+version = "0.0.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "42766a89de3dda844299845bbdac37fcfc50e3fb14557be4f8c8ceb54bdceb6a"
+checksum = "5aec926238fe280c9d5ad6162851511ba1cf55baec4b24cd48a66a18d811bb4d"
 dependencies = [
  "os_str_bytes",
  "palc-derive",
@@ -134,9 +134,9 @@ dependencies = [
 
 [[package]]
 name = "palc-derive"
-version = "0.0.1"
+version = "0.0.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "204d235b8dffce6ea58c4df57a1ceb1ddf4c366fc4daac40a39aed52385ab8a9"
+checksum = "c6ad802ed8080f568aa68b6fc6047f80264a6723efc0f11436f639b16a3c8bd0"
 dependencies = [
  "heck",
  "proc-macro2",
